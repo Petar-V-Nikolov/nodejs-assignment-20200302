@@ -1,0 +1,19 @@
+{
+  "name": "assignment_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "install": "^0.12.2",
+    "jest": "^25.1.0",
+    "moment": "^2.24.0",
+    "npm": "^6.14.8",
+    "winston": "^3.2.1"
+  }
+}
